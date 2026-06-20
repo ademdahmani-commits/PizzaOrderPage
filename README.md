@@ -1,53 +1,50 @@
-Page Components
+<h1 align="center">🍕 Make Your Pizza</h1>
 
-1. Pizza Size Selection
+<p>
+A simple Windows Forms application that allows users to customize and order a pizza by selecting its size, toppings, crust type, and dining option. The application automatically updates the order summary and total price based on the selected options.
+</p>
 
-A group of radio buttons that allows users to choose one pizza size:
+<h2>📏 Size</h2>
+<p>Select the desired pizza size.</p>
+<ul>
+  <li><b>Small</b></li>
+  <li><b>Medium</b></li>
+  <li><b>Large</b></li>
+</ul>
 
-- Small
-- Medium
-- Large
+<h2>🧀 Toppings</h2>
+<p>Add one or more toppings to customize your pizza.</p>
+<ul>
+  <li>Extra Cheese</li>
+  <li>Mushrooms</li>
+  <li>Tomatos</li>
+  <li>Onion</li>
+  <li>Olives</li>
+  <li>Green Peppers</li>
+</ul>
 
-2. Toppings Selection
+<h2>🍞 Crust Type</h2>
+<p>Choose the type of crust for your pizza.</p>
+<ul>
+  <li>Thin Crust</li>
+  <li>Thick Crust</li>
+</ul>
 
-A set of checkboxes that enables users to customize their pizza with multiple toppings:
+<h2>🍽️ Where To Eat</h2>
+<p>Select how you would like to receive your order.</p>
+<ul>
+  <li>Eat In</li>
+  <li>Take Out</li>
+</ul>
 
-- Extra Cheese
-- Mushrooms
-- Tomatoes
-- Onion
-- Olives
-- Green Peppers
+<h2>📋 Order Summary</h2>
+<p>
+Displays all selected options including pizza size, toppings, crust type,
+dining preference, and the final total price.
+</p>
 
-3. Crust Type Selection
-
-Radio buttons for selecting the preferred crust type:
-
-- Thin Crust
-- Thick Crust
-
-4. Dining Option
-
-Radio buttons that allow users to choose how they would like to receive their order:
-
-- Eat In
-- Take Out
-
-5. Order Summary Panel
-
-A dynamic summary section that displays:
-
-- Selected pizza size
-- Chosen toppings
-- Selected crust type
-- Dining option
-- Total order price
-
-6. Action Buttons
-
-- Order Pizza: Confirms the order and updates the summary.
-- Reset Form: Clears all selections and restores default values.
-
-7. User Interface Design
-
-The application features a pizza-themed graphical interface with decorative background images and a clean layout to enhance the user experience and make the ordering process more engaging.
+<h2>⚡ Actions</h2>
+<ul>
+  <li><b>Order Pizza</b> - Confirms and places the order.</li>
+  <li><b>Reset Form</b> - Clears all selections and restores default values.</li>
+</ul>
