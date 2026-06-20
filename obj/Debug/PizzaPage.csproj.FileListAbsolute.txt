@@ -1,0 +1,15 @@
+C:\Users\Adem\source\repos\PizzaPage\bin\Debug\PizzaPage.exe.config
+C:\Users\Adem\source\repos\PizzaPage\bin\Debug\PizzaPage.exe
+C:\Users\Adem\source\repos\PizzaPage\bin\Debug\PizzaPage.pdb
+C:\Users\Adem\source\repos\PizzaPage\bin\Debug\Guna.UI2.dll
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.csproj.AssemblyReference.cache
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.Form1.resources
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.Properties.Resources.resources
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.csproj.GenerateResource.cache
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.csproj.Up2Date
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.exe
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.pdb
+C:\Users\Adem\source\repos\PizzaPage\bin\Debug\ak-GH\PizzaPage.resources.dll
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\PizzaPage.Form1.ak-GH.resources
+C:\Users\Adem\source\repos\PizzaPage\obj\Debug\ak-GH\PizzaPage.resources.dll
